@@ -12,6 +12,11 @@ function App() {
     <>
      <Navbar />
      <Home />
+     <Services />
+     <About />
+     <Product />
+     <Faq/>
+     <Myfooter/>
     </>
   );
 }
